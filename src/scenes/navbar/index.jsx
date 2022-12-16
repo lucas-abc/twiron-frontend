@@ -64,7 +64,7 @@ const Navbar = () => {
                         gap="3rem"
                         padding="0.1rem 1.5rem"
                     >
-                        <InputBase placeholder="Search..." />
+                        <InputBase placeholder="Pesquisar..." />
                         <IconButton>
                             <Search />
                         </IconButton>
